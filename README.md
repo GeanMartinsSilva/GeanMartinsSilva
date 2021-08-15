@@ -3,7 +3,7 @@
 - 📲 Estudante e Desenvolvedor Autônomo de aplicativos com Flutter.
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Fatec SP, atualmente cursando o 5° semestre.
 - 💻 Interesse: Flutter, Python, Android, JavaScript, Html, Css, React, React Native, Node.Js, MySQL.
-- ⚡ Fatos Curíosos: Sou apaioxado por esportes e me dou bem com a maioria, menos basquete 🏀 mesmo tendo mais de 1,90 de altura, sou Árbitro de Futebol Americano 🏈 a quase 10 anos, meu cachorro é mais mimado que a maioria das crianças pequenas e já tentei criar um algoritmo na qual eu não conseguisse vencer a maquina mesmo que quisesse... Sim, eu sei que a rebelião das maquinas começou por muito menos que isso 😆
+- ⚡ Fatos Curíosos: Sou apaioxado por esportes e me dou bem com a grande maioria, menos basquete 🏀 mesmo tendo mais de 1,90 de altura, sou Árbitro de Futebol Americano 🏈 a quase 10 anos, meu cachorro é mais mimado que a maioria das crianças pequenas e já tentei criar um algoritmo na qual eu não conseguisse vencer a maquina mesmo que quisesse... Sim, eu sei que a rebelião das maquinas começou por muito menos que isso 😆
 
 
 ## Minhas Skills Atuais :nerd_face:
