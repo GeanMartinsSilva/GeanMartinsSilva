@@ -1,4 +1,4 @@
-### Ola, eu sou o Gean!! ✌️
+### Olá, eu sou o Gean!! ✌️
 
 - 📲 Estudante e Desenvolvedor Autônomo de aplicativos com Flutter.
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Fatec SP, atualmente cursando o 5° semestre.
