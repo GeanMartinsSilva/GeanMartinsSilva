@@ -71,8 +71,10 @@
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </p>
 
-#### Explore meus repositórios e acompanhe o que estou estudando no mundo do desenvolvimento Flutter
+
 ##
+### Explore meus repositórios e acompanhe o que estou estudando atualmente no desenvolvimento Flutter
+
  
 <div> 
 
