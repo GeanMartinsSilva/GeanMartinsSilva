@@ -1,52 +1,7 @@
-### Olá, eu sou o Gean!! ✌️
-
-- 📲 Estudante e Desenvolvedor Autônomo de aplicativos com Flutter.
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Fatec SP, atualmente cursando o 5° semestre.
-- 💻 Interesse: Flutter, Python, Android, JavaScript, Html, Css, React, React Native, Node.Js, MySQL.
-- ⚡ Fatos Curíosos: Sou apaioxado por esportes e me dou bem com a grande maioria, menos basquete 🏀 mesmo tendo mais de 1,90 de altura, sou Árbitro de Futebol Americano 🏈 a quase 10 anos, meu cachorro é mais mimado que a maioria das crianças pequenas e já tentei criar um algoritmo na qual eu não conseguisse vencer a maquina mesmo que quisesse... Sim, eu sei que a rebelião das maquinas começou por muito menos que isso 😆
+## Flutter Mobile Developer
 
 
-## Minhas Skills Atuais :nerd_face:
-</br>
-<p align="center">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</p>
-
-##
- 
-<div> 
-
-  ![Snake animation](https://github.com/geanmartinssilva/geanmartinssilva/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
-<div>
-  <a href="https://github.com/geanmartinssilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geanmartinssilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geanmartinssilva&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-## Você pode me contatar por :iphone:
+### Onde você pode me encontrar :iphone:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gean-martins-silva">
@@ -65,9 +20,77 @@
   </a>
 </p>
 
+### Olá, eu sou o Gean!! ✌️
+
+- 📲 Desenvolvedor de aplicativos móveis com Flutter.
+- 💻 Sou um apaixonado pela tecnologia e por descobrir como as coisas são feitas e como elas funcionam, e com o desenvolvimento não é diferente, estou sempre atrás de aprender novos metodos e conceitos para melhorar constantemente a minha habilidade em criar.
+- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Fatec SP, cursando o 5° semestre atualmente.
+
+#### Flutter Hard Skills :zap:
+
+* Construção de telas.
+* Firebase.
+* Consumo de APIs.
+* Persistência de dados.
+* Gerência de estado (Provider, Modular).
+* Internacionalização.
+* Publicação de aplicativo na PlayStore.
+
+#### Estudos atuais:
+- [x] Testes unitários.
+- [x] SOLID.
+- [ ] Clean Code.
+- [ ] Tratamento de erros.
+- [ ] Animações.
+
+### Linguagens, frameworks, tecnologias e ferramentas atuais :nerd_face:
+</br>
+<p align="center">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</p>
+
+#### Explore meus repositórios e acompanhe o que estou estudando no mundo do desenvolvimento Flutter
+##
+ 
+<div> 
+
+  ![Snake animation](https://github.com/geanmartinssilva/geanmartinssilva/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+<div>
+  <a href="https://github.com/geanmartinssilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geanmartinssilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geanmartinssilva&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 
 <!--
 **GeanMartinsSilva/GeanMartinsSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- ⚡ Fatos Curíosos: Sou apaioxado por esportes e me dou bem com a grande maioria, menos basquete 🏀 mesmo tendo mais de 1,90 de altura, sou Árbitro de Futebol Americano 🏈 a quase 10 anos, meu cachorro é mais mimado que a maioria das crianças pequenas e já tentei criar um algoritmo na qual eu não conseguisse vencer a maquina mesmo que quisesse... Sim, eu sei que a rebelião das maquinas começou por muito menos que isso 😆
 
 Here are some ideas to get you started:
 
