@@ -91,6 +91,7 @@
 <!--
 **GeanMartinsSilva/GeanMartinsSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- Melhorar itens futuramente
 - ⚡ Fatos Curíosos: Sou apaioxado por esportes e me dou bem com a grande maioria, menos basquete 🏀 mesmo tendo mais de 1,90 de altura, sou Árbitro de Futebol Americano 🏈 a quase 10 anos, meu cachorro é mais mimado que a maioria das crianças pequenas e já tentei criar um algoritmo na qual eu não conseguisse vencer a maquina mesmo que quisesse... Sim, eu sei que a rebelião das maquinas começou por muito menos que isso 😆
 
 Here are some ideas to get you started:
