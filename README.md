@@ -39,7 +39,6 @@
 #### Estudos atuais:
 - [x] Testes unitários.
 - [x] SOLID.
-- [ ] Clean Code.
 - [ ] Tratamento de erros.
 - [ ] Animações.
 
