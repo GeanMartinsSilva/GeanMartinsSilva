@@ -28,18 +28,21 @@
 
 #### Flutter Hard Skills :zap:
 
-* Construção de telas.
-* Firebase.
-* Consumo de APIs.
-* Persistência de dados.
-* Gerência de estado (Provider, Modular).
+* Construção de telas complexas.
+* Navegação entre telas e rotas nomeadas.
+* Firebase (Firestore, Autenticação e Push Notifications).
+* Consumo de APIs (http e Dio).
+* Arquiteturas (MVC e MVVM)
+* Persistência de dados (SharedPreferences e SQflite).
 * Internacionalização.
 * Publicação de aplicativo na PlayStore.
 
 #### Estudos atuais:
-- [x] Testes unitários.
-- [x] SOLID.
-- [ ] Tratamento de erros.
+- [x] Testes de unidade e Widgets com Mocks.
+- [x] Gerência de Estado com Provider.
+- [x] Streams de programação reativa com BLoC.
+- [ ] Princípios do Clean Code e SOLID.
+- [ ] Firebase Crashlytics e Remote Config.
 - [ ] Animações.
 
 ### Linguagens, frameworks, tecnologias e ferramentas atuais :nerd_face:
