@@ -1,4 +1,4 @@
-## Desenvolvedor Mobile Flutter
+# Desenvolvedor Mobile Flutter
 
 
 ### Onde você pode me encontrar :iphone:
@@ -20,30 +20,36 @@
   </a>
 </p>
 
-### Olá, eu sou o Gean!! ✌️
+## Olá, eu sou o Gean!! ✌️
 
-- 📲 Desenvolvedor de aplicativos móveis com Flutter.
-- 💻 Sou um apaixonado pela tecnologia e por descobrir como as coisas são feitas e como elas funcionam, e com o desenvolvimento não é diferente, estou sempre atrás de aprender novos metodos e conceitos para melhorar constantemente a minha habilidade como desenvolvedor.
+- 📲 Flutter Developer há mais de 3 anos.
+- 💻 Sou um apaixonado pela tecnologia e por descobrir como as coisas são feitas e como elas funcionam, não sendo diferente com o desenvolvimento, estou sempre atrás de aprender novos metodos e conceitos para melhorar constantemente a minha habilidade como desenvolvedor.
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Fatec SP, cursando o 5° semestre atualmente.
 
-#### Flutter Hard Skills :zap:
 
-* Construção de telas complexas.
-* Navegação entre telas e rotas nomeadas.
-* Firebase (Firestore, Autenticação e Push Notifications).
-* Consumo de APIs (http e Dio).
-* Arquiteturas (MVC e MVVM)
-* Persistência de dados (SharedPreferences e SQflite).
-* Internacionalização.
-* Publicação de aplicativo na PlayStore.
+### Na minha rotina de trabalho utilizo regularmente:
 
-#### Estudos atuais:
-- [x] Testes de unidade e Widgets com Mocks.
-- [x] Gerência de Estado com Provider.
-- [x] Streams de programação reativa com BLoC.
-- [ ] Princípios do Clean Code e SOLID.
-- [ ] Firebase Crashlytics e Remote Config.
-- [ ] Animações.
+
+- [x] Consumo de API Rest
+- [x] Publicação dos aplicativos na App Store e Google Play
+- [x] Versionamento de código (Git, GitFlow, GitHub)
+- [x] Implementação de testes (Widget, Unitários e de integração)
+- [x] Persistência de dados (SQLite, SharedPreferences, Rive e GetStorage)
+- [x] Metodologias ágeis
+- [x] Gerência de estado
+- [x] Firebase Tools
+- [x] Code Review
+
+
+
+#### Já tendo contato também com:
+
+- [x] Acesso a recursos Nativos - Câmera, Mapas, Geolocalização e arquivos
+- [x] Push Notifications
+- [x] Design Patterns
+- [x] Integração continua (CI/CD)
+- [x] Clean Code, Clean Arch e os princípios do SOLID
+
 
 ### Linguagens, frameworks, tecnologias e ferramentas atuais :nerd_face:
 </br>
@@ -52,59 +58,29 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
 
 
 ##
 ### Explore meus repositórios e acompanhe o que estou estudando atualmente no desenvolvimento Flutter
-
- 
-<div> 
-
-  ![Snake animation](https://github.com/geanmartinssilva/geanmartinssilva/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
-<div>
-  <a href="https://github.com/geanmartinssilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geanmartinssilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geanmartinssilva&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
-<!--
-**GeanMartinsSilva/GeanMartinsSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- Melhorar itens futuramente
-- ⚡ Fatos Curíosos: Sou apaioxado por esportes e me dou bem com a grande maioria, menos basquete 🏀 mesmo tendo mais de 1,90 de altura, sou Árbitro de Futebol Americano 🏈 a quase 10 anos, meu cachorro é mais mimado que a maioria das crianças pequenas e já tentei criar um algoritmo na qual eu não conseguisse vencer a maquina mesmo que quisesse... Sim, eu sei que a rebelião das maquinas começou por muito menos que isso 😆
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
