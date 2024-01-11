@@ -30,21 +30,21 @@
 ### Na minha rotina de trabalho utilizo regularmente:
 
 
-- [x] Consumo de API Rest
+- [x] Consumo de API Rest - Http e Dio
 - [x] Publicação dos aplicativos na App Store e Google Play
-- [x] Versionamento de código (Git, GitFlow, GitHub)
-- [x] Implementação de testes (Widget, Unitários e de integração)
-- [x] Persistência de dados (SQLite, SharedPreferences, Rive e GetStorage)
+- [x] Versionamento de código - Git, GitFlow, GitHub
+- [x] Implementação de testes - Widget, Unitários e de Integração
+- [x] Persistência de dados - SQLite, SharedPreferences, Hive e GetStorage
 - [x] Metodologias ágeis
-- [x] Gerência de estado
-- [x] Firebase Tools
+- [x] Gerência de estado - Bloc(Cubit), Provider, GetX e MobX
+- [x] Firebase Tools - Cloud Firestore, Authentication, Storage, Cloud Messaging e Crashlytics
 - [x] Code Review
 
 
 
 #### Já tendo contato também com:
 
-- [x] Acesso a recursos Nativos - Câmera, Mapas, Geolocalização e arquivos
+- [x] Acesso a recursos Nativos - Câmera, Mapas, Geolocalização e Arquivos
 - [x] Push Notifications
 - [x] Design Patterns
 - [x] Integração continua (CI/CD)
